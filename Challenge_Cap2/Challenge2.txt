@@ -1,0 +1,5 @@
+﻿Develop Temperature Converter Application
+Application has two classes: FahrenheitTemperature and CelsiusTemperature. 
+FahrenheitTemperature stores temperature in Fahrenheit and CelsiusTemperature 
+stores temperature in Celsius. You have to define conversion methods
+in both classes to convert Fahrenheit to Celsius Implicitly and vice versa.
