@@ -14,6 +14,7 @@ namespace Challenge_Cap2
             CelsiusTemperature celsius2 = Fahrenheit2;
             Console.WriteLine($"Celsius: {celsius2.Value} - Fahrenheit: {Fahrenheit2.Value}");
             Console.ReadKey();
+
         }
     }
 }
