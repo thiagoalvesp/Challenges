@@ -1,0 +1,29 @@
+﻿Challenge 1: Develop a Transformer
+We all have watched the Transformers film. They’re intelligent vehicles which can transform into jets,
+cars and boats. Your job is to make an application where a transformer could change its behavior into the
+following vehicles.
+
+-----------------------------------------------------
+Vehicle		Condition to transform			Attributes
+Jet			When transformer is on air		Wheels = 8
+											Max Speed = 900
+Car			When transformer is on road		Wheels = 4
+											Max Speed = 350
+Boat		When transformer is on water	Wheels = 0
+											Max Speed = 200
+-------------------------------------------------------
+Your job is to implement a Run method for each vehicle that transformer runs whenever the landscape
+changes.
+Tip
+1. Use Enum to store landscape, i.e., air, road, water.
+2. Follow OOP principle of Polymorphism.
+---------------------------------------------------------
+Challenge 2: Develop Steve Jobs Laundry System
+Steve Jobs described OOP in a very simple example. Your job is to use that example to develop an
+application that uses Object Oriented Principle. The example that Steve Jobs gave us is given below:
+If I’m your laundry object, you can give me your dirty clothes and send me a message that
+says, “Can you get my clothes laundered, please.” I happen to know where the best laundry
+place in San Francisco is. And I speak English, and I have dollars in my pockets. So, I go
+out and hail a taxicab and tell the driver to take me to this place in San Francisco. I go get
+your clothes laundered, I jump back in the cab, I get back here. I give you your clean clothes
+and say, “Here are your clean clothes.”

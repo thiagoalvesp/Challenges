@@ -1,0 +1,8 @@
+﻿Challenge 1: Develop a Custom Generic Collection.
+Create a custom generic collection which implements the following interfaces.
+•	 IList<T>
+•	 ICollection<T>
+•	 IEnumerable<T>
+
+
+---Not implement all methods

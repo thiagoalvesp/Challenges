@@ -1,0 +1,9 @@
+﻿Challenge1: Student Report Card Application
+Write an application that handles a student report card. The application shall save the marks of computer
+science, math and english. Each subject has a total of 50 marks. If a student obtains at least 75/150 marks, an
+event will trigger and show a congratulation message on passing the exam. Otherwise, it will display an “F”
+grade.
+
+Challenge 2: Invoke an event if a person’s name is changed
+Create a class Person which has a property “Name”. Your task is to invoke an event that checks if a person’s
+name has changed or not and assign a new value to a person name.

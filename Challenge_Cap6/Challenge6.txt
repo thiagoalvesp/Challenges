@@ -1,0 +1,4 @@
+﻿Challenge 1: Perform CRUD Operation using LINQ to Object
+Write a console application and make CRUD (Create, Read, Update and Delete)
+along with Search function.
+Take Countries as a Data Source (with its properties) and perform LINQ queries on this.
