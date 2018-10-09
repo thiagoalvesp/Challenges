@@ -1,0 +1,9 @@
+﻿Challenge 1: Validate Email, Phone Number, and Website
+You’re developing an application that asks the user to enter their
+1. Email ID
+2. Phone Number
+3. Date of Birth
+4. Zip Code
+5. Website
+Your application must validate their information by using regular expression and must handle
+exception in case the user enters invalid values.

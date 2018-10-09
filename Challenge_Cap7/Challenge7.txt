@@ -1,5 +1,6 @@
-﻿
-
-
+﻿Challenge 1: Print Html Code of google.com
+Write an application that gets the html code of www.google.com and print the html code on the console
+screen. You have to control the lifetime of unmanaged resources and ensure that they are disposed properly
+by using Disposable Pattern.
 
 ///290
