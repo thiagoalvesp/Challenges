@@ -1,0 +1,5 @@
+﻿Challenge 1: Download and Save Image
+Download any of Image and convert in bytes and save those bytes in file named ImageData 
+in your local space. 
+Read those bytes from ImageData file and convert them into Image form and 
+save obtained image in local drive as well.
