@@ -43,7 +43,7 @@ namespace Challenge_Cap7
             }
             catch (Exception ex)
             {
-                throw;
+                throw ex;
             }
         }
 

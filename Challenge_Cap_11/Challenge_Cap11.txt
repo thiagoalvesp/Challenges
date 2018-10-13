@@ -1,0 +1,3 @@
+﻿Challenge 1: Perform Deserialization
+You are given a sample file of serialized data in XML format (taken from MSDN); 
+you need to deserialize the data using the appropriate deserialization technique.

@@ -1,0 +1,14 @@
+﻿Challenge 1: Create ASMX Web Service
+Create a database of School with one table, Student having required fields (StudentID as primary key and
+StudentName). Create a Web Service named SchoolService and include ADO.NET for databse interactivity.
+The service should include two methods to add and read all students (students should be returned to client
+in JSON format). Create a console project (Client) which exposes this service and consumes the written
+methods in service.
+[Hint] Create an Asp.NET Empty Web Project with the name SchoolService and then add an ASMX
+web service named SchoolWebService. Write the Add() method for add student and the ReadAll() method
+for read all students. Add an ADO.NET component into this project to connect the service with a database.
+Make another class (Serializable) so that data can be sent in serialized form. Without making data
+serializable, it does not send back to the client
+
+//Important - PTBR
+Eu tive que hospedar no iis para conseguir utilizar no projeto client.

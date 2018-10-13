@@ -1,0 +1,8 @@
+﻿Challenge 1: Develop a simple window form application and perform
+Salt hashing
+Create a simple database table of login to store username, hashed password, 
+and GUID value (salt value).
+Use the Connected Layer approach to interact with the database.
+Make two forms: Registration and Login.
+Register the user (password should be inserted in hashed form) 
+and then log in the user successfully.
