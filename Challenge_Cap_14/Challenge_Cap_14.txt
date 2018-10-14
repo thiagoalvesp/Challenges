@@ -1,0 +1,12 @@
+﻿Challenge 1: Install a .DLL to Global Assembly Cache
+It’s not a code challenge, but rather a practice session in which you have to 
+create a .dll file and install it to a Global Assembly Cache.
+The solution is available in this chapter but don't look at it until you forget steps
+for installing an assembly to a GAC.
+
+1 - Enter path of project
+2 - VS prompt(with adm privileges) sn -k myClassLibrarykey.snk
+3 -  AssemblyInfo.cs put [assembly: AssemblyKeyFile("myClassLibrarykey.snk")]
+4 - gacutil -i "{file path of strong name assembly}.dll"
+
+//415

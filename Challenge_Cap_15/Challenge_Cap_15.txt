@@ -1,0 +1,15 @@
+﻿Challenge 1: Perform tracing and logging in your application.
+Build an application of dividing two numbers. The divisor must be zero. Trace the code and log into
+EventLog in an appropriate manner so that you can find out what, where, and which kind of data is traced
+and logged.
+Challenge 2: Implement Performance Counter in your application.
+Make a console application, which should have 2 choices for the user: 1- Input, 2-Output. When the user
+types 1 and presses enter, it should take the input (single input of any type) and count as 100 and so on.
+When the user types 2 and presses enter, it should display the number of inputs the user has entered so far.
+Implement Performance Counter to keep track of user inputs. Handle the code if the user mistakenly enters
+any other type of input
+
+--Need
+Microsoft.Windows.Compatibility
+
+Monitor de Desempenho.

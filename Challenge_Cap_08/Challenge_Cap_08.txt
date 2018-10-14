@@ -1,0 +1,10 @@
+﻿Challenge 1: Develop a Windows Form Project to Display HTML
+Develop a simple Windows Form Project in C# which gets the HTML of “google.com” and displays it on
+a label.
+Application must have these UI Controls:
+1. A Textbox to enter URL
+2. A Label to display result
+3. A button for downloading HTML and displaying it on a label
+Your goals are:
+1. The application must be responsive and use async and await.
+2. Download the HTML of a URL and show it on a label.
